@@ -1109,8 +1109,8 @@ local themes = {
         ["Dropdown Option Background"] = Color3.fromRGB(19, 19, 19)
     },
 
-    MidnightBlue = {
-        ["Accent"] = Color3.fromRGB(25, 25, 112),
+    Blue = {
+        ["Accent"] = Color3.fromRGB(44, 44, 195),
         ["Window Background"] = Color3.fromRGB(30, 30, 36),
         ["Window Border"] = Color3.fromRGB(45, 45, 49),
         ["Tab Background"] = Color3.fromRGB(20, 20, 24),
